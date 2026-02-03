@@ -3,6 +3,8 @@
 Personal portfolio website showcasing my work in backend engineering,
 machine learning, and applied AI systems.
 
+![Portfolio Preview](src/assets/images/preview.png)
+
 ## Highlights
 - Backend development using FastAPI and REST APIs
 - Machine learning, deep learning, NLP, and LLM-based systems
