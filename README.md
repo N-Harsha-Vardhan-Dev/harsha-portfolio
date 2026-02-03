@@ -18,7 +18,8 @@ machine learning, and applied AI systems.
 - Netlify (Deployment)
 
 ## Live Site
-https://<your-netlify-url>
+https://nharshavardhan.netlify.app/
+
 
 ## Contact
 - Email: harsha.nandineni@gmail.com

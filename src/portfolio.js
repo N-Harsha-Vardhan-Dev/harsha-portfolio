@@ -170,14 +170,28 @@ const bigProjects = {
       image: require("./assets/images/jarvisLogo.webp"),
       projectDesc:
         "Developed a multimodal assistant combining voice, OCR, and LLM reasoning with vector-based memory using ChromaDB, reducing response latency by ~30%.",
-      footerLink: [{name: "GitHub", url: ""}]
+      footerLink: [
+        {
+          name: "GitHub",
+          url: "https://github.com/N-Harsha-Vardhan-Dev/jarvis_desktop_assistant"
+        }
+      ]
     },
     {
       projectName: "AI Grammar Correction Bot (Linga Bot)",
       image: require("./assets/images/grammarBotLogo.webp"),
       projectDesc:
         "Fine-tuned a T5-small model on the WikiAuto dataset for grammar correction and deployed it using FastAPI with JWT authentication.",
-      footerLink: [{name: "GitHub", url: ""}]
+      footerLink: [
+        {
+          name: "GitHub",
+          url: "https://github.com/N-Harsha-Vardhan-Dev/t5-small-linga"
+        },
+        {
+          name: "Hugging Face",
+          url: "https://huggingface.co/Harshathemonster/t5-small-updated"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
